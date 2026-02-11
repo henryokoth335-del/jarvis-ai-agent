@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environments
+*.env
+*.venv
+
+# Byte-compiled / optimized files
+*.py[cod]
+
+# Distribution / packaging
+.Python
+env/
+lib/
+lib64/
+share/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
